@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abolfazlmim
-- 👀 I’m interested in ML/ Security/Programming
-- 🌱 I’m currently learning Cloud/ Security
+- 👀 I’m interested in  Security/Programming
+- 🌱 I’m currently learning Cloud/ Security 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
