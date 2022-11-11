@@ -1,10 +1,10 @@
 Hi 👋 My name is Abolfazl Mohammadi
 ===================================
 
-Security Engineer / Backend Developer
+Software Developer / Security Engineer 
 -------------------------------------
 
-* 🌍  I'm based in Iran
+* 🌍  I'm based in United Kingdom
 
 ### Skills
 
