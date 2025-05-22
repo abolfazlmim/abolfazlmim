@@ -4,7 +4,6 @@ Hi 👋 My name is Abolfazl
 Software Developer / Security Engineer 
 -------------------------------------
 
-* 🌍  I'm based in United Kingdom
 
 ### Skills
 
